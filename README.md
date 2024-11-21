@@ -62,7 +62,8 @@ Raydium Volume Bot is a powerful, automated tool for executing volume trading an
 
 ## Author
 
-Telegram: [@g0drlc](https://t.me/g0drlc)
+Telegram: [@g0drlc](https://t.me/da1asin
+)
 
 This is old version of volume bot. I am updating new volume bot that has high quality and speed.
 You can always find me here, for help, or for other projects.

@@ -10,6 +10,7 @@ Raydium Volume Bot is an advanced tool designed to automate trading and generate
 - **Sell Mode**: Gradually sell tokens in sub-wallets through small transactions to reduce slippage and optimize sales.
 - **Token Pair Settings**: Flexible configuration of token mint addresses and pool IDs for any swap operations on Raydium.
 - **Logging**: Comprehensive and adjustable logging levels to monitor the bot’s operations, debug errors, and track progress.
+
 ## How It Works
 Raydium Volume Bot is built to help DeFi traders increase the trading volume of specific tokens on Raydium. By leveraging Solana's blockchain infrastructure, this bot executes automated buy and sell transactions and massive buy modes across multiple wallets. It uses various configurations, from buy intervals to sell percentages, ensuring flexibility in how traders can operate.
 
